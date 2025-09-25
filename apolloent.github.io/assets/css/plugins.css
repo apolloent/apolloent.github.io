@@ -1,0 +1,33 @@
+/*-----------------------------------------------------------------------------------
+
+	Template Name: Apollo Enterprise
+	Template URI: https://apolloent.github.io
+	Description:  A clean, modern, and responsive HTML5 template for business and corporate websites.
+	Author: Nur Hasan Masum
+	Author URI: https://masumhasan.github.io
+	Version: 1.0
+
+-----------------------------------------------------------------------------------*/
+
+/* ----------------------------------------------------------------
+			[ All Css Plugins & Helper Classes File ]
+-----------------------------------------------------------------*/
+
+/* == fontawesome == */
+@import url("plugins/fontawesome-all.min.css");
+
+/* == Swiper == */
+@import url("plugins/swiper.min.css");
+
+/* == animatedheadline == */
+@import url("plugins/jquery.animatedheadline.css");
+
+/* == fancybox popup == */
+@import url("plugins/fancybox.css");
+
+/* == magnific popup == */
+@import url("plugins/fjGallery.css");
+
+/* == Helper Class == */
+@import url("global.css");
+
